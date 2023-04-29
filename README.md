@@ -1,5 +1,7 @@
 # Real Time Filtering
 
+This project displays an image given a file path and creates a window to display live video captured through webcam with the ability to save a frame and quit. Apart from that, one can also apply inbuilt greyscale filter, custom greyscale filter, a blur effect using the gaussian 5x5 filter as 1x5 separable filters, 3x3 sobel filters in both X and Y axis as separable 1x3 filters, perform gradient magnitude on images, blur and quantize an image, cartoonize an image and also create a negative of an image. Other topics implemented are mirroring an image, flipping an image upside down, detecting if an image is blurred or not using variation of the Laplacian, adding salt and pepper noise and removing salt and pepper noise with a standard median filter.
+
 OS - Linux (Debian - Ubuntu 22.04)
 IDE - None (CLE using terminal)
 
