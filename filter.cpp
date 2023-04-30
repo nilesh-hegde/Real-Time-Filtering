@@ -1,9 +1,3 @@
-/*
-Nilesh Hegde
-23 January 2023
-Project 1 - Real time filtering
-*/
-
 #include "filter.hpp"
 #include <stdlib.h> 
 #include <bits/stdc++.h>
