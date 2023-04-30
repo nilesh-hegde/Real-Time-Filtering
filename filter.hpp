@@ -1,9 +1,3 @@
-/*
-Nilesh Hegde
-23 January 2023
-Project 1 - Real time filtering
-*/
-
 #ifndef FILTER_HPP
 #define FILTER_HPP
 
