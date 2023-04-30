@@ -1,9 +1,3 @@
-/*
-Nilesh Hegde
-23 January 2023
-Project 1 - Real time filtering
-*/
-
 #include <stdio.h>
 #include <opencv2/opencv.hpp>
 using namespace cv;
